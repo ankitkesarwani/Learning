@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_leaderboard"
+        android:title="@string/leaderboard"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/profile_invite_friends"
+        android:title="@string/invite_friends"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/profile_share"
+        android:title="@string/share"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/profile_edit"
+        android:title="@string/edit_profile"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/profile_settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/profile_discover"
+        android:title="@string/discover_peers"
+        android:icon="@drawable/discover"
+        app:showAsAction="always" />
+
+</menu>

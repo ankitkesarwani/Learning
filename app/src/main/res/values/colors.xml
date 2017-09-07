@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838f</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#ffd600</color>
+
+    <color name="dotLightScreen">#FFFFFF</color>
+
+    <array name="dotInactive">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+
+    <array name="dotActive">
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+        <item>@color/dotLightScreen</item>
+    </array>
+
+</resources>

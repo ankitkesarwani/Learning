@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304691206296",
+    "firebase_url": "https://learning-3ea16.firebaseio.com",
+    "project_id": "learning-3ea16",
+    "storage_bucket": "learning-3ea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304691206296:android:936a96d107fe7659",
+        "android_client_info": {
+          "package_name": "com.example.ankit.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304691206296-t1v5fgveu2r9hgf4gfbfnrj6qc3r9fkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankit.learning",
+            "certificate_hash": "bf059ce2ca37832a1a9946f3bbe64c79e465b4e3"
+          }
+        },
+        {
+          "client_id": "304691206296-0jhbjnso7aoom22jrjut8dfpoa54e8ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaMoM2e1G4PMqC7CK-9ozbM5lnd6Qnx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304691206296-0jhbjnso7aoom22jrjut8dfpoa54e8ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
